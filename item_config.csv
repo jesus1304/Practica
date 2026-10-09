@@ -1,0 +1,17 @@
+﻿item_code,item_wording,signal,reverse_flag,role,weight
+CLD_01,Me interesa aprender herramientas o capacidades nuevas para mejorar mi forma de trabajar.,Learning Appetite,False,primary,1.0
+CLD_02,Siento curiosidad por explorar nuevas formas de aportar valor en mi trabajo.,Learning Appetite,False,primary,1.0
+CLD_03,Me gustaría participar en experiencias prácticas para aprender nuevas capacidades.,Learning Appetite,False,supporting,0.5
+CLD_04,Confío en mi capacidad para aprender herramientas nuevas cuando mi trabajo lo requiere.,Learning Capacity,False,primary,1.0
+CLD_05,"Cuando cambia la forma de trabajar, suelo ser capaz de adaptarme y aprender lo necesario.",Learning Capacity,False,supporting,0.5
+CLD_06,Me preocupa quedarme desactualizado/a cuando aparecen nuevas tecnologías.,Learning Capacity,True,supporting,0.5
+CLD_07,Tengo oportunidades reales para desarrollar capacidades nuevas dentro de la organización.,Development Access,False,primary,1.0
+CLD_08,Sé a qué recursos o personas acudir cuando quiero desarrollarme profesionalmente.,Development Access,False,supporting,0.5
+CLD_09,Recibo apoyo suficiente para aprender nuevas herramientas relacionadas con mi trabajo.,Development Access,False,primary,1.0
+CLD_10,Siento que puedo tomar un papel activo en mi propio desarrollo profesional.,Professional Agency,False,primary,1.0
+CLD_11,Puedo proponer o probar nuevas formas de trabajar sin que todo esté decidido de antemano.,Professional Agency,False,supporting,0.5
+CLD_12,Me veo aportando valor en esta organización durante los próximos años.,Future Visibility,False,primary,1.0
+CLD_13,Puedo imaginar distintas maneras de seguir aportando valor a medida que evoluciona mi vida profesional.,Future Visibility,False,primary,1.0
+CLD_14,Me cuesta imaginar un futuro profesional con sentido si sigo haciendo las cosas igual que ahora.,Future Visibility,True,primary,1.0
+CLD_15,"En mi equipo, las diferencias de experiencia se aprovechan para aprender unos de otros.",Knowledge Exchange,False,primary,1.0
+CLD_16,El conocimiento importante se comparte antes de que se pierda o quede concentrado en pocas personas.,Knowledge Exchange,False,primary,1.0
